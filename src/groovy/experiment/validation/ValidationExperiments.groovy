@@ -98,7 +98,7 @@ class ValidationExperiments {
 		def difAfterTry
 		try{
 			validacoes.each{
-				it()?.call()
+				it()
 			}
 		}catch(all){
 			def afterTry = Integer.parseInt(sdf.format(new Date()))

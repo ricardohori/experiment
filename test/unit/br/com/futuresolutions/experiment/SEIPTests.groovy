@@ -4,7 +4,7 @@ import grails.test.*
 
 import java.text.SimpleDateFormat
 
-import br.com.futuresolutions.simpleexcelimport.SimpleExcelImport
+import br.com.plugitin.simpleexcelimport.SimpleExcelImport
 
 class SEIPTests extends GrailsUnitTestCase {
     protected void setUp() {
