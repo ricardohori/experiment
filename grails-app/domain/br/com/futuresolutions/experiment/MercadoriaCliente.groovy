@@ -8,4 +8,5 @@ class MercadoriaCliente {
 
     static constraints = {
     }
+	
 }

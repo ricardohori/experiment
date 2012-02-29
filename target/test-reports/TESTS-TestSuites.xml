@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuites>
-  <testsuite errors="0" failures="0" hostname="Hori-PC" id="0" name="MercadoriaIntegrationTests" package="experiment.listener" tests="1" time="11.421" timestamp="2012-01-26T23:00:09">
+  <testsuite errors="0" failures="0" hostname="CA016" id="0" name="MercadoriaIntegrationTests" package="experiment.listener" tests="1" time="4.406" timestamp="2012-02-06T12:08:16">
       <properties />
 
-      <testcase classname="experiment.listener.MercadoriaIntegrationTests" name="testListener" time="11.413" />
+      <testcase classname="experiment.listener.MercadoriaIntegrationTests" name="testListener" time="4.391" />
 
       <system-out><![CDATA[--Output from testListener--
-Alterou a NCM!!!
+org.hibernate.event.PostInsertEvent@1952ad4
 ]]></system-out>
 
       <system-err><![CDATA[--Output from testListener--
