@@ -27,9 +27,5 @@ grails.project.dependency.resolution = {
         // specify dependencies here under either 'build', 'compile', 'runtime', 'test' or 'provided' scopes eg.
 
         // runtime 'mysql:mysql-connector-java:5.1.13'
-		
-//		test('org.seleniumhq.selenium:selenium-server:2.19.0'){
-//			excludes "xercesImpl", "xmlParserAPIs", "xml-apis", "gmaven-runtime-default", "servlet-api"
-//		}
     }
 }

@@ -1,0 +1,8 @@
+1 scenario executed successfully.
+
+  Story: buscar alteracoes tributacao intervalo tela
+
+
+    scenario Poder consultar alterações de tributação informando intervalo
+      given que eu esteja na tela de consulta
+      then devo poder informar um intervalo para busca
